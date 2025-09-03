@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David iheuko
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning web developement
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on an open source project in github
 - 📫 How to reach me iheukodavid830@gmail.com 
 - 😄 Pronouns: he/him
